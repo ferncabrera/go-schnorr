@@ -1,0 +1,19 @@
+# github.com/dedis/fixbuf v1.0.2
+## explicit
+github.com/dedis/fixbuf
+# github.com/stretchr/testify v1.9.0
+## explicit; go 1.17
+# golang.org/x/crypto v0.21.0
+## explicit; go 1.18
+golang.org/x/crypto/blake2b
+# golang.org/x/sys v0.18.0
+## explicit; go 1.18
+golang.org/x/sys/cpu
+# gopkg.in/dedis/kyber.v2 v2.0.0-20180509082236-f066f8d2cd58
+## explicit
+gopkg.in/dedis/kyber.v2
+gopkg.in/dedis/kyber.v2/group/edwards25519
+gopkg.in/dedis/kyber.v2/group/internal/marshalling
+gopkg.in/dedis/kyber.v2/group/mod
+gopkg.in/dedis/kyber.v2/util/random
+gopkg.in/dedis/kyber.v2/xof/blake2xb
